@@ -20,3 +20,11 @@ npm run build
 ```
 
 Le dossier `dist/` est généré par la compilation et n'est pas à envoyer sur GitHub. Les favoris et les playlists sont conservés dans le stockage local du navigateur.
+
+## Réalisé par
+
+- Samgaz Meryem
+- Oufik Maroua
+
+**Niveau :** 4e année  
+**Filière :** Génie informatique et intelligence artificielle
